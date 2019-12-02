@@ -11,5 +11,5 @@ license=  "MIT / Apache-2.0"
 name = "fontconfig"
 
 [dependencies]
-servo-fontconfig-sys = {git = "https://github.com/cmr/libfreetype2", branch="web"}
+servo-fontconfig-sys = {git = "https://github.com/cmr/libfontconfig", branch="web"}
 libc = "0.2"
